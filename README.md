@@ -426,14 +426,3 @@ In addition to the automated test suite, an interactive step-by-step verificatio
 - **Explanation:** This is verified system behavior. The similarity metric threshold ($\tau = 0.45$) protects the user against hallucinations when a topic is absent from the transcript corpus.
 
 ---
-
-## 12. Take-Home Evaluation Deliverables
-
-This codebase was engineered as a formal Forward Deployed Engineer (FDE) engagement deliverable:
-- [`PRD.md`](file:///c:/projects/LENNY%20Assistant/PRD.md): Product Requirements Document, target users, assumptions, scope, user journeys, and implementation milestones.
-- [`design.md`](file:///c:/projects/LENNY%20Assistant/design.md): Design rationale, Impeccable tokens, component contracts, sandboxed React execution, and accessibility specifications.
-- [`architecture.md`](file:///c:/projects/LENNY%20Assistant/architecture.md): Low-level system diagrams, database schemas, and vector retrieval mechanics.
-- [`agent-transcripts/session_log.md`](file:///c:/projects/LENNY%20Assistant/agent-transcripts/session_log.md): Architectural decisions and trade-offs.
-- [`agent-transcripts/technical_iterations_log.md`](file:///c:/projects/LENNY%20Assistant/agent-transcripts/technical_iterations_log.md): Progressive engineering dialogue, developer prompts, failure modes, AST/profiler diagnostics, and corrective diffs across 8 iterations.
-- [`tests/MANUAL_TEST_PLAN.md`](file:///c:/projects/LENNY%20Assistant/tests/MANUAL_TEST_PLAN.md): Complete manual UI test matrix.
-- [`DEMO_SCRIPT.md`](file:///c:/projects/LENNY%20Assistant/DEMO_SCRIPT.md): 2–3 minute timed recording script with camera and screen directions.
